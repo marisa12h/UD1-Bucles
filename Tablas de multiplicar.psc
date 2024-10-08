@@ -1,6 +1,5 @@
 Algoritmo Tablasdemultiplicar
-	//9. Algoritmo que muestre la tabla de multiplicar de los números 1,2,3,4 y 5.
-	Escribir "Dime los numeros que quieres mostrar las tablas de multiplicar: "
+	
 	Leer numero1
 	Leer numero2
 	Leer numero3
